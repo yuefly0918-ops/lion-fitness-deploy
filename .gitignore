@@ -1,0 +1,17 @@
+# 本地构建工具（部署不需要，仅用于从 xlsx/pdf 重建数据）
+_tools/
+
+# 备份文件
+*.bak
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器 / 系统文件
+.vscode/
+.idea/
+.DS_Store
+
+# 临时文件
+*.tmp
